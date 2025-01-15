@@ -1,0 +1,27 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "prettier"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "plugins": [
+    "react",
+    "prettier"
+  ],
+  "rules": {
+    "prettier/prettier": "error",
+    "quotes": ["error", "single"],  // Используем одинарные кавычки
+    "indent": ["error", 2],         // Отступы 2 пробела
+    "semi": ["error", "always"],    // Обязательные точки с запятой
+    "no-unused-vars": "warn",       // Предупреждения о неиспользуемых переменных
+    "react/prop-types": "off"       // Отключить проверку пропсов в React
+  }
+}

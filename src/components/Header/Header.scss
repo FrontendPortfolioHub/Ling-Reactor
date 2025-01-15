@@ -1,0 +1,29 @@
+.header {
+  width: 100%;
+  padding-block: 10px;
+}
+
+.header-nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon {
+  display: block;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.main-logo {
+  width: 160px;
+  height: 42px;
+  background-image: url('../../assets/icons/LOGO.svg');
+}
+
+.menu-open-button {
+  width: 28px;
+  height: 28px;
+  background-image: url('../../assets/icons/menu-open.svg');
+}
