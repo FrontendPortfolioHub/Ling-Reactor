@@ -1,6 +1,13 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import { useMainContext } from '../../context/MainContext';
 
 export const HomePage = () => {
+  const { setCurrentPage } = useMainContext();
+
+  useEffect(() => {
+    setCurrentPage('home');
+  }, []);
+
   return (
     <div className="page home-page">
       <div className="container">

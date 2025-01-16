@@ -3,7 +3,7 @@ import React, { createContext, useState, useContext } from 'react';
 const MainContext = createContext();
 
 export const MainProvider = ({ children }) => {
-  const [currentPage, setCurrentPage] = useState('home');
+  const [currentPage, setCurrentPage] = useState('start');
 
   return (
     <MainContext.Provider
