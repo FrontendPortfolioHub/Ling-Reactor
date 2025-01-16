@@ -1,4 +1,8 @@
 .header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
   width: 100%;
   padding-block: 10px;
 }
@@ -33,5 +37,3 @@
   height: 28px;
   background-image: url('../../assets/icons/light-mode-button-white.svg');
 }
-
-
