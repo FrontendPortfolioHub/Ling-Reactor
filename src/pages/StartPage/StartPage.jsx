@@ -2,6 +2,12 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 export const StartPage = () => {
+  const { setCurrentPage } = useMainContext();
+
+  useEffect(() => {
+    setCurrentPage('start');
+  }, []);
+
   return (
     <div className="page start-page">
       <div className="container">
