@@ -3,10 +3,10 @@
 }
 
 .greeting-block {
-  padding-inline: 24px;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 30px;
-  display: flex;
-  flex-direction: column;
+  width: 250px;
 }
 
 .greeting-block__top {
