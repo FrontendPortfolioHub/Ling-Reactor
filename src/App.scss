@@ -1,6 +1,7 @@
 @import './styles/_reset';
 @import './styles/_variables';
 @import './components/Header/Header';
+@import './components/CreaterInfo/CreaterInfo';
 
 .container {
   padding-inline: 15px;
@@ -8,5 +9,7 @@
 
 body {
   min-height: 100vh;
-  background-color: $background-color;
+  background: linear-gradient(90deg, #191536 14.5%, #000 100%);
+  font-family: Inter, sans-serif;
+  color: $color-primary;
 }

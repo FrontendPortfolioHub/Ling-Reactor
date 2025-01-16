@@ -1,0 +1,16 @@
+.creater-info__content {
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  font-size: 9px;
+  font-weight: 400;
+  color: $color-secondary;
+}
+
+.creater-info__text {
+  text-align: center;
+}
