@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 export const StartPage = () => {
   return (
@@ -11,7 +12,9 @@ export const StartPage = () => {
           </h1>
         </div>
         <div className="auth-block">
-          <button className="icon log-in-button">Log in</button>
+          <Link to="/home" className="icon log-in-button">
+            Log in
+          </Link>
           <p className="auth-block-connector">|</p>
           <button className="icon register-button">Register</button>
         </div>

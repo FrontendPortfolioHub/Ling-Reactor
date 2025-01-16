@@ -1,8 +1,10 @@
 @import './styles/_reset';
 @import './styles/_variables';
 @import './components/Header/Header';
-@import './components/CreaterInfo/CreaterInfo';
+@import './pages/AuthPage/AuthPage';
+@import './pages/HomePage/HomePage';
 @import './pages/StartPage/StartPage';
+@import './components/CreaterInfo/CreaterInfo';
 
 .container {
   padding-inline: 15px;
