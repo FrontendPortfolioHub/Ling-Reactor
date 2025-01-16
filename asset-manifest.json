@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Ling-Reactor/static/css/main.b36f26e1.css",
+    "main.css": "/Ling-Reactor/static/css/main.cd49b380.css",
     "main.js": "/Ling-Reactor/static/js/main.b38784e9.js",
     "static/media/LOGO.svg": "/Ling-Reactor/static/media/LOGO.1d03032a4c53b281b66c.svg",
     "static/media/log-in-button-white.svg": "/Ling-Reactor/static/media/log-in-button-white.0dd23e8456a635b7447b.svg",
@@ -9,11 +9,11 @@
     "index.html": "/Ling-Reactor/index.html",
     "static/media/education-icon.svg": "/Ling-Reactor/static/media/education-icon.c5eba222be9027e4bc38.svg",
     "static/media/repeat-icon.svg": "/Ling-Reactor/static/media/repeat-icon.04bcee6b7e9e296b1efa.svg",
-    "main.b36f26e1.css.map": "/Ling-Reactor/static/css/main.b36f26e1.css.map",
+    "main.cd49b380.css.map": "/Ling-Reactor/static/css/main.cd49b380.css.map",
     "main.b38784e9.js.map": "/Ling-Reactor/static/js/main.b38784e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b36f26e1.css",
+    "static/css/main.cd49b380.css",
     "static/js/main.b38784e9.js"
   ]
 }
