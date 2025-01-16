@@ -2,6 +2,7 @@
 @import './styles/_variables';
 @import './components/Header/Header';
 @import './components/CreaterInfo/CreaterInfo';
+@import './pages/StartPage/StartPage';
 
 .container {
   padding-inline: 15px;
@@ -12,4 +13,12 @@ body {
   background: linear-gradient(90deg, #191536 14.5%, #000 100%);
   font-family: Inter, sans-serif;
   color: $color-primary;
+}
+
+.page {
+  background: linear-gradient(90deg, #191536 14.5%, #000 100%);
+}
+
+.text-accent {
+  color: $color-accent;
 }

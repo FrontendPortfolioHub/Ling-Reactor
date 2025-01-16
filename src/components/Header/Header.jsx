@@ -6,7 +6,8 @@ export const Header = () => {
       <div className="container">
         <nav className="header-nav-bar">
           <a href="/" className="icon main-logo" />
-          <button className="icon menu-open-button" />
+          <button className="icon account-button" />
+          <button className="icon color-mode-button" />
         </nav>
       </div>
     </header>

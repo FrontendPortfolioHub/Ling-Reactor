@@ -1,0 +1,49 @@
+.start-page {
+  padding-block: 30vh;
+}
+
+.greeting-block {
+  padding-inline: 24px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.greeting-block__top {
+  margin-bottom: 9px;
+}
+
+.greeting-block__title {
+  text-align: left;
+  font-size: 26px;
+  font-weight: 900;
+  line-height: 130%;
+  letter-spacing: 1.3px;
+
+  span {
+    color: $color-accent;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 130%;
+    letter-spacing: 1.3px;
+  }
+}
+
+.auth-block {
+  margin: 0 auto;
+  width: 122px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.log-in-button,
+.register-button,
+.auth-block-connector {
+  color: $color-secondary;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+  letter-spacing: 0.5px;
+}
