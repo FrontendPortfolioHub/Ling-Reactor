@@ -1,5 +1,6 @@
 import React from 'react';
 import { useMainContext } from '../../context/MainContext';
+import { Link } from 'react-router-dom';
 
 export const Header = () => {
   const { currentPage } = useMainContext();
@@ -8,7 +9,7 @@ export const Header = () => {
     <header className="header">
       <div className="container">
         <nav className="header-nav-bar">
-          <a href="/" className="icon main-logo" />
+          <Link to="/" className="icon main-logo" />
 
           {currentPage === 'home' && (
             <div className="nav-bar-right">
