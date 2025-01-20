@@ -1,5 +1,6 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import { useMainContext } from '../../context/MainContext';
 
 export const StartPage = () => {
   const { setCurrentPage } = useMainContext();

@@ -18,7 +18,7 @@
   line-height: 130%;
 }
 
-.actions-card {
+.actions-card__link {
   width: 225px;
   padding: 10px;
   display: flex;
@@ -28,6 +28,7 @@
   gap: 20px;
   border-radius: 5px;
   border: 1px solid #05c2df;
+  color: #fff;
   background: #191536;
   box-shadow: 2px 0px 13px 2px rgba(5, 194, 223, 0.25);
 }
