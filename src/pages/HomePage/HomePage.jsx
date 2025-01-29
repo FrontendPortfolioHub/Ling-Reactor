@@ -23,7 +23,7 @@ export const HomePage = () => {
               <div className="actions-item__image plus-icon" />
             </Link>
           </li>
-          <li className="actions-card">
+          {/*<li className="actions-card">
             <Link className="actions-card__link">
               <h3 className="actions-item__title">Learn new words?</h3>
               <p className="actions-item__text">
@@ -31,7 +31,7 @@ export const HomePage = () => {
               </p>
               <div className="actions-item__image education-icon" />
             </Link>
-          </li>
+          </li>*/}
           <li className="actions-card">
             <Link className="actions-card__link">
               <h3 className="actions-item__title">Repeat the words?</h3>

@@ -4,9 +4,11 @@
 }
 
 .actions-list {
+  height: 67vh;
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   gap: 30px;
 }
 
