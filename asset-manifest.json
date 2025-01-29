@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ling-Reactor/static/css/main.3bcdcd2e.css",
-    "main.js": "/Ling-Reactor/static/js/main.e30b6799.js",
+    "main.css": "/Ling-Reactor/static/css/main.b40147d1.css",
+    "main.js": "/Ling-Reactor/static/js/main.1a3fb7cd.js",
     "static/media/LOGO.svg": "/Ling-Reactor/static/media/LOGO.1d03032a4c53b281b66c.svg",
     "static/media/account-settings-button.svg": "/Ling-Reactor/static/media/account-settings-button.3fa35420ead0f3603be0.svg",
     "static/media/plus-icon.svg": "/Ling-Reactor/static/media/plus-icon.47cc30eb11938bbc97b9.svg",
@@ -9,11 +9,11 @@
     "index.html": "/Ling-Reactor/index.html",
     "static/media/education-icon.svg": "/Ling-Reactor/static/media/education-icon.c5eba222be9027e4bc38.svg",
     "static/media/repeat-icon.svg": "/Ling-Reactor/static/media/repeat-icon.04bcee6b7e9e296b1efa.svg",
-    "main.3bcdcd2e.css.map": "/Ling-Reactor/static/css/main.3bcdcd2e.css.map",
-    "main.e30b6799.js.map": "/Ling-Reactor/static/js/main.e30b6799.js.map"
+    "main.b40147d1.css.map": "/Ling-Reactor/static/css/main.b40147d1.css.map",
+    "main.1a3fb7cd.js.map": "/Ling-Reactor/static/js/main.1a3fb7cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bcdcd2e.css",
-    "static/js/main.e30b6799.js"
+    "static/css/main.b40147d1.css",
+    "static/js/main.1a3fb7cd.js"
   ]
 }
